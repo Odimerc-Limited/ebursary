@@ -1,0 +1,96 @@
+a, u {
+    text-decoration: none !important;
+    color : #337ab7;
+
+}
+
+
+.mdl-layout__header .mdl-layout__drawer-button i {
+    color: #0000FF !important;
+}
+
+.header-icons{
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+.body-content {
+    margin-top: 25px;
+}
+
+.dashboard-tab{
+    height: 50px;
+}
+
+.visual{
+    float: right;
+    font-size: 40px;
+    margin-top: 8px;
+}
+
+.details {
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+}
+
+.number{
+    position: absolute;
+    font-size: 40px;
+}
+
+.mdl-card-wide.mdl-card {
+    width: 100%;
+}
+
+.review-panel{
+    height:90vh;
+}
+
+img.org-logo{
+   width: 200px;
+    height: 200px;
+}
+
+
+.material-icons.md-18 {
+    font-size: 60px;
+}
+
+/*--New E-bursary CSS--*/
+
+
+#signup-field-color
+{
+    background-color: #eceef1;
+}
+
+.signup-logo{
+    padding-top: 50px;
+    align-content: center;
+}
+
+#login-logo{
+    padding-top: 100px;
+    display: block;
+}
+
+#login-logo img
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#signup-logo{
+    padding-top: 35px;
+    display: block;
+}
+
+#signup-logo img
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
